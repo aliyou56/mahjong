@@ -1,0 +1,6 @@
+[submodule "dao"]
+	path = dao
+	url = https://github.com/aliyou56/mahjong_dao.git
+[submodule "daofile"]
+	path = daofile
+	url = https://github.com/aliyou56/mahjong_daofile.git
